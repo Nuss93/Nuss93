@@ -11,6 +11,13 @@ If it piqued my interest, I've probably already had a repository on it.
 
 📫 If you wanna collaborate or just wanna have a chat, please hesitate before emailing me at nasreenrzk@gmail.com
 
+## Things I can do
+- ReactJS
+- HTML, CSS, JS
+- React Native
+- UI/UX Design
+- Learning new things
+
 <!---
 Nuss93/Nuss93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
